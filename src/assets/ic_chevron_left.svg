@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_chevron_left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Browse" transform="translate(-26.000000, -79.000000)" fill="#4C596E">
+            <g id="nav-bar">
+                <g id="nav-back" transform="translate(16.000000, 71.000000)">
+                    <path d="M17.5981333,19.6632084 C17.9673714,20.0366265 17.9673714,20.6399475 17.5981333,21.0133657 C17.2275019,21.3853904 16.6311476,21.3867838 16.2605162,21.0133657 L10.9769285,15.6224899 C10.6076905,15.2490718 10.6076905,14.6443574 10.9769285,14.2709393 L16.2605162,8.88006359 C16.6311476,8.50664547 17.2275019,8.50664547 17.5981333,8.88006359 C17.9673714,9.2534817 17.9673714,9.85680276 17.5981333,10.2302209 L13.2662045,14.9467146 L17.5981333,19.6632084 L17.5981333,19.6632084 Z" id="ic_chevron_left"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

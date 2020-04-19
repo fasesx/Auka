@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_plus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-P2M-Chat" transform="translate(-26.000000, -81.000000)" fill="#4C596E">
+            <g id="Group">
+                <g id="message-more-button" transform="translate(16.000000, 71.000000)">
+                    <path d="M20.3793103,13.9655172 L16.0344828,13.9655172 L16.0344828,9.62068966 C16.0344828,9.04911181 15.5715778,9 15,9 C14.4284222,9 13.9655172,9.04911181 13.9655172,9.62068966 L13.9655172,13.9655172 L9.62068966,13.9655172 C9.04911181,13.9655172 9,14.4284222 9,15 C9,15.5715778 9.04911181,16.0344828 9.62068966,16.0344828 L13.9655172,16.0344828 L13.9655172,20.3793103 C13.9655172,20.9508882 14.4284222,21 15,21 C15.5715778,21 16.0344828,20.9508882 16.0344828,20.3793103 L16.0344828,16.0344828 L20.3793103,16.0344828 C20.9508882,16.0344828 21,15.5715778 21,15 C21,14.4284222 20.9508882,13.9655172 20.3793103,13.9655172 L20.3793103,13.9655172 Z" id="ic_plus" transform="translate(15.000000, 15.000000) rotate(45.000000) translate(-15.000000, -15.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

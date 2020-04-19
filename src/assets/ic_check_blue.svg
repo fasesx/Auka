@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>check checked</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Product-Page-Slider-Modal" transform="translate(-17.000000, -695.000000)" fill="#4382EB">
+            <g id="Group-6" transform="translate(0.000000, 71.000000)">
+                <g id="extras-line" transform="translate(16.000000, 599.000000)">
+                    <path d="M10,25 C5.032,25 1,29.032 1,34 C1,38.968 5.032,43 10,43 C14.968,43 19,38.968 19,34 C19,29.032 14.968,25 10,25 L10,25 Z M8.2,38.5 L3.7,34 L4.969,32.731 L8.2,35.953 L15.031,29.122 L16.3,30.4 L8.2,38.5 L8.2,38.5 Z" id="check-checked"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

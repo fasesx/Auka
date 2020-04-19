@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>ic_share</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-Trx-Details" transform="translate(-337.000000, -79.000000)">
+            <g id="Group">
+                <g id="nav-back" transform="translate(329.000000, 71.000000)">
+                    <g id="ic_share" transform="translate(6.000000, 6.000000)">
+                        <path d="M14.25,9 L14.25,14.25 L3.75,14.25 L3.75,9 L2.25,9 L2.25,14.25 C2.25,15.075 2.925,15.75 3.75,15.75 L14.25,15.75 C15.075,15.75 15.75,15.075 15.75,14.25 L15.75,9 L14.25,9 Z M8.25,5.1225 L6.3075,7.0575 L5.25,6 L9,2.25 L12.75,6 L11.6925,7.0575 L9.75,5.1225 L9.75,12.375 L8.25,12.375 L8.25,5.1225 Z" id="Shape" fill="#4C596E" fill-rule="nonzero"></path>
+                        <polygon id="Shape" points="0 0 18 0 18 18 0 18"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

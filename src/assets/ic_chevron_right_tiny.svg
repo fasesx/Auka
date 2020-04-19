@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>message chevron right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Marketplace-P2M-Chat" transform="translate(-338.000000, -539.000000)">
+            <g id="IM-Trx-Component" transform="translate(89.000000, 503.000000)">
+                <g id="message-chevron-right" transform="translate(242.000000, 31.000000)">
+                    <g id="Icon-24px">
+                        <path d="M7.86894222,14.3272756 C7.47648377,13.9348171 7.47066719,13.3036509 7.85836883,12.9151027 L10.975,9.79166667 L7.85836883,6.66823062 C7.4717499,6.28076755 7.47940725,5.64559275 7.86894222,5.25605778 L7.62272445,5.50227555 C8.0151829,5.1098171 8.64610573,5.10443906 9.03910649,5.49743983 L12.6275602,9.08589351 C13.0173479,9.47568126 13.0205609,10.1044391 12.6275602,10.4974398 L9.03910649,14.0858935 C8.64931874,14.4756813 8.01225942,14.4705928 7.62272445,14.0810578 L7.86894222,14.3272756 Z" id="Shape" fill="#818894"></path>
+                        <polygon id="Shape" points="0 0 20 0 20 20 0 20"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
