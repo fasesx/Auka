@@ -1,27 +1,11 @@
 import React, {useEffect, useState} from 'react';
 import {StyleSheet, ImageBackground, TouchableOpacity, View, Image, Text} from 'react-native';
 import SvgUri from 'expo-svg-uri';
- import { useSelector} from 'react-redux';
+import { useSelector} from 'react-redux';
 // import { useFirestoreConnect } from "react-redux-firebase";
 
 export default function Header({getFoodCategories}) {
-    console.log(useSelector(state => state));
-    const getTimeTable = (opening, closing) => {
-        const currentDate = new Date();
-        const openingTime = new Date("01/01/2000 "+opening);
-        const closingTime = new Date("01/01/2000 "+closing);
-        const currentTime = new Date("01/01/2000 "+currentDate.getHours()+":"+currentDate.getMinutes());
-        let businessStatus = closing;
-        if(currentTime <= closingTime ){
-            businessStatus = "Open now";
-            if(currentTime.setHours(currentTime.getHours() + 1) >= closingTime) {
-                businessStatus += " • Closing soon";
-            }
-        } else if(currentTime >= closingTime) {
-            businessStatus = "Closed now";
-        }
-        return businessStatus;
-    };
+    const businessName = useSelector(state => state.business.business[0].business_name);
 
     return (
         <ImageBackground source={require('../../assets/img_burger_joint.png')} style={styles.bgImage}>
@@ -31,9 +15,9 @@ export default function Header({getFoodCategories}) {
             <View style={styles.businessLogoContainer}>
                 <Image source={require('../../assets/img_chef_hat.png')}/>
             </View>
-            <Text style={styles.businessName}>{""}</Text>
+            <Text style={styles.businessName}>{businessName}</Text>
             <View style={styles.timeContainer}>
-                <Text style={{fontSize: 12, color: '#697482'}}>{""}</Text>
+                <Text style={{fontSize: 12, color: '#697482'}}>{"Open now • Closing soon"}</Text>
             </View>
             <View style={styles.ratingContainer}>
                 <SvgUri source={require('../../assets/ic_star_blue.svg')} width="14" height="14"/>
